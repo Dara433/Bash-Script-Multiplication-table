@@ -171,3 +171,7 @@ Keeping everything else the same as the list form, only the differnce in the (C-
 - For Partial multiplication in descending order
 
 ![alt text](img/16..png)
+
+Full code
+
+![alt text](img/17..png)
